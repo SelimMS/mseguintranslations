@@ -118,7 +118,7 @@ h1 {
 }
 
 .about-me p{
-    font-size: 20px;
+    font-size: 18px;
 }
 .about-me a{
     color:rgb(47, 182, 178);
@@ -160,7 +160,7 @@ h1 {
 .trust h2{
     font-family: "Frank Ruhl Libre", serif;
     font-weight: 350;
-    font-size: 45px;
+    font-size: 55px;
 }
 
 .trust span{
@@ -168,7 +168,7 @@ h1 {
 }
 
 .trust p{
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 350;
 }
 .quote {
@@ -178,14 +178,14 @@ h1 {
     padding-bottom: 40px;
 }
 
-.quote h3{
+.quote h2{
     font-family: "Frank Ruhl Libre", serif;
     font-weight: 350;
-    font-size: 45px;
+    font-size: 55px;
 }
 
 .quote p{
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 350;
     padding-bottom: 10px;
 }
